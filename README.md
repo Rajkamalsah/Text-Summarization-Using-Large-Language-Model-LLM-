@@ -209,6 +209,3 @@ This project is a text summarization tool that uses both extractive and abstract
         return summary
     ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
